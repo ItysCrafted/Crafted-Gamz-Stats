@@ -1,10 +1,10 @@
 green
-yellow
-red
-grey
 green
-red
-yellow
-grey
 green
-red
+green
+green
+green
+green
+green
+green
+green
